@@ -1,8 +1,13 @@
+<img align="right" src="https://count.getloli.com/get/@:XZCloudSrv?theme=rule34">
 # 小战云计算 IDC 开源项目 🚀
 
 ## 关于我们 👋
 
 小战云计算 IDC 由散小战创始人领导，致力于提供高质量、全方位的云计算服务。我们的目标是通过开源程序和机器人项目，推动技术创新和社区发展。🌟
+
+## Python工程师—天平
+
+热爱Python、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
 
 ### Github 活跃度
 
