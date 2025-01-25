@@ -8,7 +8,6 @@
 [![GitHub license](https://img.shields.io/badge/license-MPL%202.0-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
 ![Shell](https://img.shields.io/badge/shell-bash%205.0-green)
 ![Python Version](https://img.shields.io/badge/Python-3.9.20-blue)
-![HTML](https://img.shields.io/badge/HTML)
 
 ## Python工程师—天平
 
