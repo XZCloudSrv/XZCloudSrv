@@ -9,7 +9,7 @@
 ![Shell](https://img.shields.io/badge/shell-bash%205.0-green)
 ![Python Version](https://img.shields.io/badge/Python-3.9.20-blue)
 
-## Python工程师—天平
+## Python工程师—散小战
 
 热爱Python、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
 
@@ -50,8 +50,10 @@
 
 ## 联系我们 📬
 
-- **GitHub**：[小战云计算 IDC](https://github.com/Sanxiaozhan)
-- **官方网站**：[小战云 IDC](https://idc.79san.cn/)
+- **GitHub**：[小战云计算 IDC](https://github.com/XZCloudSrv)
+- **官方网站**：[小战云 IDC]
+  (https://idc.79san.cn/)
+- **小战云开源程序doc**: .[小战云开源程序doc](https://doc.78san.top/)
 - **TG飞机频道**：[https://t.me/SAN869CN](https://t.me/SAN869CN)
 
 我们期待与您一起，共同打造更美好的开源未来！🎉
