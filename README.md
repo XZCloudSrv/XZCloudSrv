@@ -4,6 +4,14 @@
 
 小战云计算 IDC 由散小战创始人领导，致力于提供高质量、全方位的云计算服务。我们的目标是通过开源程序和机器人项目，推动技术创新和社区发展。🌟
 
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=XZCloudSrv&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![XZCloudSrv's github stats](https://github-readme-stats.vercel.app/api?username=XZCloudSrv&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XZCloudSrv&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=XZCloudSrv&layout=compact&langs_count=6)
+
 ## 开源项目 📚
 
 ### 1. TelegramQQ 查绑机器人 🤖
