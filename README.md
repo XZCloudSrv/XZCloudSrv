@@ -6,7 +6,9 @@
 小战云计算 IDC 由散小战创始人领导，致力于提供高质量、全方位的云计算服务。我们的目标是通过开源程序和机器人项目，推动技术创新和社区发展。🌟
 
 [![GitHub license](https://img.shields.io/badge/license-MPL%202.0-blue.svg)](https://github.com/yourusername/yourrepository/blob/main/LICENSE)
+![Shell](https://img.shields.io/badge/shell-bash%205.0-green)
 ![Python Version](https://img.shields.io/badge/Python-3.9.20-blue)
+![HTML](https://img.shields.io/badge/HTML)
 
 ## Python工程师—天平
 
